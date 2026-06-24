@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+.venv/
+*.pyc
+data/
+*.docx
+~$*
+package.json
+package-lock.json
+file.js
+east_demo.py
+111.txt
+Phase_Completion.py
