@@ -1,0 +1,8 @@
+streamlit
+javalang
+numpy
+pandas
+matplotlib
+networkx
+scikit-learn
+ 

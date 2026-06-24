@@ -1,0 +1,27 @@
+Phase 1 (Assignment 3) requires:
+
+Problem Formulation
+Literature Review
+Data Acquisition
+Feature Engineering
+
+Phase 2 (Assignment 4) requires:
+
+Model Implementation & Experimentation
+Analysis, Discussion & Research Paper
+
+So the code, models, LSTM, Random Forest, RAPL measurements, accuracy metrics — all of that is Assignment 4, not Assignment 3.
+
+Phase 1 (Assignment 3) requires:
+
+Problem Formulation
+Literature Review
+Data Acquisition
+Feature Engineering
+
+Phase 2 (Assignment 4) requires:
+
+Model Implementation & Experimentation
+Analysis, Discussion & Research Paper
+
+So the code, models, LSTM, Random Forest, RAPL measurements, accuracy metrics — all of that is Assignment 4, not Assignment 3.
